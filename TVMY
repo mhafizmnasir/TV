@@ -14,6 +14,11 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="MALAYSIA",DRAMA SANGAT
+https://fvtv2.mywire.org/streams/dailymotion/ch_ds.m3u8
+
 #EXTINF:-1 tvg-id="TVIkim.my" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 
