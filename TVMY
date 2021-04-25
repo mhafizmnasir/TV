@@ -76,7 +76,8 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="INDONESIA", TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="INDONESIA",SCTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="INDONESIA",BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="METROTV.id" tvg-name="METRO TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="INDONESIA",METRO TV
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
