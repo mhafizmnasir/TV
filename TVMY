@@ -66,6 +66,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO RIA HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-RIA-HD.png" group-title="Test 2",MY| ASTRO RIA HD
 http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391068
 
+#EXTINF:-1 tvg-id="AEBestof.us" tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Entertainment",A&E (Best of) (1080p)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 
 
 
