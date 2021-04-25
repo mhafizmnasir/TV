@@ -35,6 +35,9 @@ http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-CERIA-HD.jpeg" group-title="MALAYSIA",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
+#EXTINF:321,tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Test",Astro Warna
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
