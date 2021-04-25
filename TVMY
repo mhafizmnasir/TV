@@ -91,3 +91,6 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:-1 tvg-id="TRANSTVHD.id" tvg-name="TRANS TV HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-group="ID" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png" group-title="INDONESIA",Kompas TV
+https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G_wIZ6ZbSMk5pDvQTWKxb0g)/dm/3/x6pz4sa/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k4ttBi7hCXzpArrvk82
