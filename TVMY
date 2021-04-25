@@ -19,3 +19,8 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVAlhijrah.my" group-title="MALAYSIA" tvg-logo="http://vodpictures.ddns.net/picons/logos/TV-ALHIJRA.png",TV AlHijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="MY",ASTRO NAURA
+https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
