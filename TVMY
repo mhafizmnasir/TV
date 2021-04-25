@@ -9,3 +9,6 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MY",TV2
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MY| TV3" tvg-logo="http://vodpictures.ddns.net/picons/logos/tv3.png" group-title="Test 2",MY| TV3
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/390961
