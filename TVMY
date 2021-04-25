@@ -56,7 +56,8 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| CINEMA WORLD" tvg-logo="http://vodpictures.ddns.net/picons/logos/CINEMA-WORLD-HD.png" group-title="Test 2",Cinema World
 http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391035
 
-
+#EXTINF:-1 tvg-id="Hello.my" tvg-name="Hello" tvg-country="MY" tvg-language="" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-HELLO.jpg" group-title="",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
 
 
