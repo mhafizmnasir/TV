@@ -20,13 +20,13 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlhijrah.my" group-title="MALAYSIA" tvg-logo="http://vodpictures.ddns.net/picons/logos/TV-ALHIJRA.png",TV AlHijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY| BERNAMA NEWS" tvg-logo="http://vodpictures.ddns.net/picons/logos/BERNAMA-TV.png" group-title="Test 2",MY| BERNAMA News
+#EXTINF:-1 tvg-id="" tvg-name="MY| BERNAMA NEWS" tvg-logo="http://vodpictures.ddns.net/picons/logos/BERNAMA-TV.png" group-title="MALAYSIA",MY| BERNAMA News
 http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391048
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="",Astro Awani
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-CERIA-HD.jpeg" group-title="",Astro Ceria
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-CERIA-HD.jpeg" group-title="MALAYSIA",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="",Astro Citra
