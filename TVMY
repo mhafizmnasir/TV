@@ -56,5 +56,5 @@ http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="Boo" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i2.wp.com/selebritionline.com/wp-content/uploads/2016/10/Boo-logo-BLACK-1.jpg?fit=500%2C200" group-title="",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hello.my" tvg-name="Hello" tvg-country="MY" tvg-language="" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-HELLO.jpg" group-title="MALAYSIA",Hello!
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+#EXTINF:-1 tvg-id="RTMParlimenDewanRakyat.my" tvg-name="RTM Parlimen (Dewan Rakyat)" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="" group-title="",RTM Parlimen (Dewan Rakyat) (1080p)
+https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
