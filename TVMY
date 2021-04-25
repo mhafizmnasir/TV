@@ -85,5 +85,8 @@ http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/rw8620qS/20191026-003920.png" group-title="INDONESIA",MNCTV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 
-#EXTINF:-1 tvg-id="RRINet.id" tvg-name="RRI Net" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="",RRI Net (720p)
+#EXTINF:-1 tvg-id="RRINet.id" tvg-name="RRI Net" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="INDONESIA",RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1 tvg-id="TRANSTVHD.id" tvg-name="TRANS TV HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" group-title="INDONESIA",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
