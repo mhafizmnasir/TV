@@ -20,7 +20,7 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlhijrah.my" group-title="MALAYSIA" tvg-logo="http://vodpictures.ddns.net/picons/logos/TV-ALHIJRA.png",TV AlHijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVOkey.my" tvg-name="TV Okey" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MALAYSIA",TV Okey (1080p)
+#EXTINF:-1 tvg-id="TVOkey.my" tvg-name="TV Okey" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MALAYSIA",TV Okey
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="Bernama TV" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="",Bernama TV
