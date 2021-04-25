@@ -62,6 +62,10 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-country="MY" tvg-language="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="MALAYSIA",AXN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO RIA HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-RIA-HD.png" group-title="Test 2",MY| ASTRO RIA HD
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391068
+
 
 
 
