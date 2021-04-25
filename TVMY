@@ -23,6 +23,9 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| BERNAMA NEWS" tvg-logo="http://vodpictures.ddns.net/picons/logos/BERNAMA-TV.png" group-title="Test 2",MY| BERNAMA NEWS
 http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391048
 
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="",Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+
 
 
 
