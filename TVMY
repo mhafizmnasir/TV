@@ -59,12 +59,7 @@ http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="Boo" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i2.wp.com/selebritionline.com/wp-content/uploads/2016/10/Boo-logo-BLACK-1.jpg?fit=500%2C200" group-title="",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-
-
-
-
-
-#######################INDONESIA##############################
+#######################    INDONESIA    ##############################
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="INDONESIA", RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
