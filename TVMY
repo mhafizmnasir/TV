@@ -14,8 +14,8 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVIkim.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA",TV Ikim (1080p)
+#EXTINF:-1 tvg-id="TVIkim.my" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="" group-title="MALAYSIA",TV Alhijrah
+#EXTINF:-1 tvg-id="TVAlhijrah.my" group-title="MALAYSIA" tvg-logo="http://vodpictures.ddns.net/picons/logos/TV-ALHIJRA.png",TV AlHijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
