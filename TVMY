@@ -213,6 +213,8 @@ http://gooserace.xyz:2052/live/ricky1/ricky1/1524459.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/220px-FYI%2C_logo.svg.png" group-title="MALAYSIA",fyi
 http://gooserace.xyz:2052/live/ricky1/ricky1/1192819.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/477-4772256_hgtv-logo-png-transparent-png.png" group-title="MALAYSIA",HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 
 
