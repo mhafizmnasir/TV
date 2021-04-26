@@ -268,3 +268,9 @@ https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://3.bp.blogspot.com/--Z9svHlcugY/VMT7xsNvFTI/AAAAAAAABlc/U1ECCHM8hBI/s1600/Logo%2BKompas%2BTV.png" , Kompas TV 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8
 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.techinasia.com/data/images/YesyMxHgCzyipuMqU5TLhs83cINKGYj6V0z7HB0U.jpeg" , JAK TV 
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5415_720p/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://3.bp.blogspot.com/-DLFw2zoFM84/WC5gGt1cFSI/AAAAAAAAHCE/AATOYOE0hhAaupG8OHNxEMgC92r7tejYgCLcB/s1600/daai%2Btv.png" , DAAI TV 
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6482_720p/index.m3u8
+
