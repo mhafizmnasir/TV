@@ -37,7 +37,7 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="RTMParlimenDewanRakyat.my" tvg-name="RTM Parlimen (Dewan Rakyat)" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/09376F51-2704-4D8A-850C-B53A2B222473.jpeg/revision/latest?cb=20190506070654" group-title="",RTM Parlimen
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA",Astro Awani
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://axial.ai/wp-content/uploads/2020/04/astro-awarni.png" group-title="MALAYSIA",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Rania" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Astro_Rania.png/revision/latest?cb=20200924122502" group-title="MALAYSIA",Astro Rania
@@ -96,6 +96,9 @@ http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheDesignNetwork_290x290.png?raw=true" group-title="MALAYSIA",The Design Network
 https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/210-2104300_history-channel-logo-png-logo-with-gold-h.png" group-title="MALAYSIA",History Channel
+http://gooserace.xyz:2052/live/ricky1/ricky1/1524366.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-name="304" tvg-id="Hbo.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="MALAYSIA",HBO
@@ -126,7 +129,7 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/red.m3u8
 #EXTINF:-1 tvg-name="304" tvg-id="CNX.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="MALAYSIA",CINEMAX
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
-#EXTINF:-1 tvg-id"andflix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MALAYSIA",&Flix HD
+#EXTINF:-1 tvg-id"andflix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MALAYSIA",&Flix
 https://y5w8j4a9.ssl.hwcdn.net:443/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rtl_cbs_entertainment_hd.png/400px-Rtl_cbs_entertainment_hd.png" group-title="MALAYSIA",Blue Ant Entertainment
@@ -135,10 +138,10 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="MALAYSIA",Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MALAYSIA",MBC 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MALAYSIA",MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 
-#EXTINF:-1 tvg-id"andprive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="MALAYSIA",&Prive HD
+#EXTINF:-1 tvg-id"andprive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="MALAYSIA",&Prive
 https://y5w8j4a9.ssl.hwcdn.net:443/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="MALAYSIA",Animal Planet
@@ -195,6 +198,22 @@ http://51.79.208.146:61980/myplay/c_58045/index.m3u8
 #EXTINF:-1 tvg-logo="https://mb.cision.com/Public/18576/3169816/94ade76b90036da2_800x800ar.jpg" group-title="MALAYSIA",DMAX
 http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="MALAYSIA",AMC
+http://gooserace.xyz:2052/live/ricky1/ricky1/1549174.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.fxnetworks.com/shows/fxnetworks/photos/logos/fx.jpg" group-title="MALAYSIA",FX
+http://gooserace.xyz:2052/live/ricky1/ricky1/1549099.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/syfy-logo-EDF3AAB208-seeklogo.com.png" group-title="MALAYSIA",SyFy East
+http://gooserace.xyz:2052/live/ricky1/ricky1/1524449.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="MALAYSIA",TruTV
+http://gooserace.xyz:2052/live/ricky1/ricky1/1524459.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/220px-FYI%2C_logo.svg.png" group-title="MALAYSIA",fyi
+http://gooserace.xyz:2052/live/ricky1/ricky1/1192819.m3u8
+
+
 
 
 #######################    INDONESIA    ##############################
@@ -219,3 +238,9 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:-1 tvg-id="TRANSTVHD.id" tvg-name="TRANS TV HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTV.id" tvg-name="TRANS TV HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="INDONESIA",My TV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6711_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png" group-title="INDONESIA",Citra Dangdut
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.m3u8
