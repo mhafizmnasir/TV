@@ -265,6 +265,12 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6401/master.m3u8
 #EXTINF:-1 tvg-id="CitraEntertainment.id" tvg-name="Citra Entertainment" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/Lnj0XRv/CitraEnt.jpg" group-title="INDONESIA",CITRA Entertainment
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6402_720p/index.m3u8
 
+#EXTINF:-1 tvg-id="CitraBioskop.id" tvg-name="Citra Bioskop" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/pPYkNPT/CitraDra.jpg" group-title="INDONESIA",CITRA Bioskop
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6684_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="CitraMuslim.id" tvg-name="Citra Muslim" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/z2kn4r0/Citra-Muslim.jpg" group-title="INDONESIA",CITRA Muslim
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6678_720p/index.m3u8
+
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://img.okezone.com/content/2017/10/11/598/1793668/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-HuUpnwftig.jpg" , GTV 
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
@@ -298,7 +304,7 @@ http://122.248.43.138:1935/ch10/myStream/live.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png", ADiTV Yogyakarta 
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8 
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png", SaktiTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png", Sakti TV
 http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8 
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ytimg.com/vi/vGaeHMzz66Y/maxresdefault.jpg", Jambi TV 
