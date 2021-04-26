@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.54.3/0.07 -- Jan van Straaten" site="rtm.gov.my">
-  <channels>
-    <channel update="i" site="rtm.gov.my" site_id="TV1.MY" xmltv_id="TV1.MY">TV1</channel>
-    https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
-    <channel update="i" site="rtm.gov.my" site_id="TV2.MY" xmltv_id="TV2.MY">TV2</channel>
-    https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
-  </channels>
-</site>
