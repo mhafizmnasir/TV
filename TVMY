@@ -265,6 +265,6 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6401/master.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://img.okezone.com/content/2017/10/11/598/1793668/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-HuUpnwftig.jpg" , GTV 
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="http://3.bp.blogspot.com/--Z9svHlcugY/VMT7xsNvFTI/AAAAAAAABlc/U1ECCHM8hBI/s1600/Logo%2BKompas%2BTV.png" , Kompas TV 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://3.bp.blogspot.com/--Z9svHlcugY/VMT7xsNvFTI/AAAAAAAABlc/U1ECCHM8hBI/s1600/Logo%2BKompas%2BTV.png" , Kompas TV 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8
 
