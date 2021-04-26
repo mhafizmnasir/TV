@@ -280,3 +280,6 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_206_720p/index.m
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" , INDOSIAR 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8
 
+#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="http://choos.wap.sh/images/ntv.png" , NTV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7432_720p/index.m3u8
+
