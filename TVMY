@@ -93,7 +93,7 @@ http://51.79.208.146:61980/myplay/c_58039/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheDesignNetwork_290x290.png?raw=true" group-title="MALAYSIA",The Design Network
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/54a90fbabc95ebb800a416b20ab3e8013b5d96eac88a476effc76ee8ecc9c1eb.png" group-title="MALAYSIA",The Design Network
 https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/210-2104300_history-channel-logo-png-logo-with-gold-h.png" group-title="MALAYSIA",History Channel
