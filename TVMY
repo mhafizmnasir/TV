@@ -239,6 +239,9 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-id="TRANSTVHD.id" tvg-name="TRANS TV HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MyTV.id" tvg-name="TRANS TV HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://img.favpng.com/6/4/20/trans7-indonesia-trans-tv-streaming-media-television-png-favpng-9xxGhtW1PX9Vn3EaJLFUvKFFD.jpg" group-title="INDONESIA",TRANS 7
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_734_480p/index.m3u8
+
 #EXTINF:-1 tvg-id="INSPIRATV.id" tvg-name="Inspira TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Inspira_Logo_%282021%29.png" group-title="INDONESIA",Inspira TV
 https://v2.siar.us/inspiratv/live/chunks.m3u8
 
@@ -250,9 +253,6 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6711_720p/index.
 
 #EXTINF:-1 tvg-id="MyTV.id" tvg-name="TRANS TV HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.pinimg.com/originals/3a/56/f9/3a56f9e1cc10d507b54244a6fd562094.jpg" group-title="INDONESIA",SCTV
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="MyTV.id" tvg-name="TRANS TV HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://img.favpng.com/6/4/20/trans7-indonesia-trans-tv-streaming-media-television-png-favpng-9xxGhtW1PX9Vn3EaJLFUvKFFD.jpg" group-title="INDONESIA",TRANS 7
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_734_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png" group-title="INDONESIA",CITRA Dangdut
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.m3u8
