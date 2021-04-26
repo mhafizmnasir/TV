@@ -52,6 +52,12 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MALAYSIA",Astro Prima
 http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/naura-my.png" group-title="MALAYSIA",Naura
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hello-my.png" group-title="MALAYSIA",Astro Hello
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="MALAYSIA",Astro SuperSport
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 
@@ -71,7 +77,7 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/ad6c5b49-3c34-4a6d-ab5b-d1bd2eea8fda.png" group-title="MALAYSIA",SBS Food
-https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
+http://51.79.208.146:61980/myplay/c_58039/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" group-title="MALAYSIA",KBS WORLD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -168,17 +174,18 @@ http://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="MALAYSIA",Teletubbies
 https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 xmltv-id="SONY MOVIE HD" tvg-id="SONY MOVIE HD" group-title="MALAYSIA" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png", SONY MOVIE
+#EXTINF:-1 xmltv-id="SONY MOVIE HD" tvg-id="SONY MOVIE HD" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/1b/Sony_Movies_Logo.png/revision/latest/scale-to-width-down/349?cb=20200125201100", SONY Movie
 http://51.52.156.22:8888/http/009
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="KBS.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" group-title="MALAYSIA",KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z8XViXpm-dI/YAsIIqYXhJI/AAAAAAAAMmg/RiQ4W5eXJmo0oRDIKsCRpE97yDsisQckgCLcBGAsYHQ/s0/logo_tvn.png" group-title="MALAYSIA" tvg-id="" tvg-name"TVN",TVN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oh-k-us-sg.png" group-title="MALAYSIA",Oh!K
+http://51.79.208.146:61980/myplay/c_58045/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mb.cision.com/Public/18576/3169816/94ade76b90036da2_800x800ar.jpg" group-title="MALAYSIA",DMAX
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+
 
 
 #######################    INDONESIA    ##############################
