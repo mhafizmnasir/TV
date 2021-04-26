@@ -297,3 +297,12 @@ http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png", SaktiTV
 http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8 
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ytimg.com/vi/vGaeHMzz66Y/maxresdefault.jpg", Jambi TV 
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://3.bp.blogspot.com/-VQnhloM1_u0/XBuYEJ_baiI/AAAAAAAAH78/K0877oHvzW0DhxyxPep0xSJHRLmESWd6wCLcBGAs/s1600/BETV%2BBengkulu%2Blive%2Bstreaming.jpeg", BETV Bengkulu 
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://4.bp.blogspot.com/-oNCGc5_Emho/We9dGY51uwI/AAAAAAAAAzE/G9XdWzYGwV0eRRcCPw_7vNUGyPsUOYpCgCLcBGAs/s1600/rctv-cirebon.png", RCTV Cirebon 
+http://122.248.43.138:1935/ch9/myStream/live.m3u8 
