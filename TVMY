@@ -256,11 +256,14 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6711_720p/index.
 #EXTINF:-1 tvg-id="MyTV.id" tvg-name="TRANS TV HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.pinimg.com/originals/3a/56/f9/3a56f9e1cc10d507b54244a6fd562094.jpg" group-title="INDONESIA",SCTV
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/citradangdut.png" group-title="INDONESIA",CITRA Dangdut
+#EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/ts7b1JQ/Citra-Dang.jpg" group-title="INDONESIA",CITRA Dangdut
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="Citra Dangdut" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG" group-title="INDONESIA",CITRA Drama
+#EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="Citra Dangdut" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/pPYkNPT/CitraDra.jpg" group-title="INDONESIA",CITRA Drama
 https://livestreaming-swiftserve-etslive.vidio.com/live/6401/master.m3u8
+
+#EXTINF:-1 tvg-id="CitraEntertainment.id" tvg-name="Citra Entertainment" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/Lnj0XRv/CitraEnt.jpg" group-title="INDONESIA",CITRA Entertainment
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6402_720p/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://img.okezone.com/content/2017/10/11/598/1793668/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-HuUpnwftig.jpg" , GTV 
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
