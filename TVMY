@@ -11,6 +11,9 @@ https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
 #EXTINF:-1 tvg-id="TV3" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV3" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
+http://51.79.208.146:61980/myplay/c_58047/index.m3u8
+
 #EXTINF:-1 tvg-id="TV9" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
