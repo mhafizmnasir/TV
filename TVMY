@@ -220,8 +220,8 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 #######################    INDONESIA    ##############################
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="INDONESIA", RTB Sukmaindera
-https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+
+
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="INDONESIA", TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
@@ -233,7 +233,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/rw8620qS/20191026-003920.png" group-title="INDONESIA",MNC TV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-id="RRINet.id" tvg-name="RRI Net" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="INDONESIA",RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
@@ -262,4 +262,9 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.
 #EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="Citra Dangdut" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG" group-title="INDONESIA",CITRA Drama
 https://livestreaming-swiftserve-etslive.vidio.com/live/6401/master.m3u8
 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://img.okezone.com/content/2017/10/11/598/1793668/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-HuUpnwftig.jpg" , GTV 
+https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 group-title="LOKAL FTA" tvg-logo="http://3.bp.blogspot.com/--Z9svHlcugY/VMT7xsNvFTI/AAAAAAAABlc/U1ECCHM8hBI/s1600/Logo%2BKompas%2BTV.png" , Kompas TV 
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8
 
