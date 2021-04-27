@@ -230,6 +230,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="METROTV.id" tvg-name="METRO TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/500px-LogoMetroTVsince2010.svg.png" group-title="INDONESIA",METRO TV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_777_720p/index.m3u8
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/rw8620qS/20191026-003920.png" group-title="INDONESIA",MNC TV
