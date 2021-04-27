@@ -296,6 +296,9 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7432_720p/index.
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://choos.wap.sh/images/inews.png" , I-News 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8
 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://4.bp.blogspot.com/-Rl6bWHI7G48/Xgagyz382iI/AAAAAAAApFU/kEQx7Eb-XHQo9h8wl-EqcPzp5V-_AmU1QCLcBGAsYHQ/s0/atv-channel-tv-logo.png", ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
+
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Bdgtv.jpg", Bandung TV 
 http://202.150.153.254/bandungtv720p.m3u8 
 
@@ -316,3 +319,5 @@ http://122.248.43.138:1935/ch3/myStream/live.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://4.bp.blogspot.com/-oNCGc5_Emho/We9dGY51uwI/AAAAAAAAAzE/G9XdWzYGwV0eRRcCPw_7vNUGyPsUOYpCgCLcBGAs/s1600/rctv-cirebon.png", RCTV Cirebon 
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
+
+
