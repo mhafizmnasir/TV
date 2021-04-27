@@ -99,10 +99,8 @@ https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/210-2104300_history-channel-logo-png-logo-with-gold-h.png" group-title="MALAYSIA",History Channel
 http://gooserace.xyz:2052/live/ricky1/ricky1/1524366.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-name="304" tvg-id="Hbo.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="MALAYSIA",HBO
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://www.homeboxoffice.com/lodging/img/hbo_blue_logo.jpg" group-title="MALAYSIA",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
