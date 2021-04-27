@@ -172,18 +172,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #EXTINF:-1 tvg-group="News" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png", group-title="MALAYSIA",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/108.png?rand=246" group-title="MALAYSIA",CBeebies
-https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/102.png" group-title="MALAYSIA",Boomerang
-http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="MALAYSIA",Baby First
-http://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="MALAYSIA",Teletubbies
-https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 xmltv-id="SONY MOVIE HD" tvg-id="SONY MOVIE HD" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/1b/Sony_Movies_Logo.png/revision/latest/scale-to-width-down/349?cb=20200125201100", SONY Movie
 http://51.52.156.22:8888/http/009
 
