@@ -178,27 +178,6 @@ http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z8XViXpm-dI/YAsIIqYXhJI/AAAAAAAAMmg/RiQ4W5eXJmo0oRDIKsCRpE97yDsisQckgCLcBGAsYHQ/s0/logo_tvn.png" group-title="MALAYSIA" tvg-id="" tvg-name"TVN",TVN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oh-k-us-sg.png" group-title="MALAYSIA",Oh!K
-http://51.79.208.146:61980/myplay/c_58045/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://mb.cision.com/Public/18576/3169816/94ade76b90036da2_800x800ar.jpg" group-title="MALAYSIA",DMAX
-http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="MALAYSIA",AMC
-http://gooserace.xyz:2052/live/ricky1/ricky1/1549174.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.fxnetworks.com/shows/fxnetworks/photos/logos/fx.jpg" group-title="MALAYSIA",FX
-http://gooserace.xyz:2052/live/ricky1/ricky1/1549099.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/syfy-logo-EDF3AAB208-seeklogo.com.png" group-title="MALAYSIA",SyFy East
-http://gooserace.xyz:2052/live/ricky1/ricky1/1524449.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="MALAYSIA",TruTV
-http://gooserace.xyz:2052/live/ricky1/ricky1/1524459.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/220px-FYI%2C_logo.svg.png" group-title="MALAYSIA",fyi
-http://gooserace.xyz:2052/live/ricky1/ricky1/1192819.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/477-4772256_hgtv-logo-png-transparent-png.png" group-title="MALAYSIA",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
