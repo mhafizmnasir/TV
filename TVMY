@@ -316,3 +316,6 @@ http://122.248.43.138:1935/ch3/myStream/live.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://4.bp.blogspot.com/-oNCGc5_Emho/We9dGY51uwI/AAAAAAAAAzE/G9XdWzYGwV0eRRcCPw_7vNUGyPsUOYpCgCLcBGAs/s1600/rctv-cirebon.png", RCTV Cirebon 
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.9d380770a1bc73c3a24e79069a529085.SHINTA" tvg-name"Indosiar _VIDIO" group-title="LOCAL",Indosiar _VIDIO
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
