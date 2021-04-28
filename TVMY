@@ -203,8 +203,17 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="INDONESIA", TVRI
+#EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="INDONESIA", TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TVRIJawaBarat.id" tvg-name="TVRI Jawa Barat" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/RIwYxS9.png" tvg-url="" group-title="",TVRI Jawa Barat
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8 
+
+ #EXTINF:-1 group-title="INDONESIA" tvg-id="TVRIJakarta.id" tvg-name="TVRI Jakarta" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/VH7TANA.png" tvg-url="" group-title="",TVRI Jakarta 
+ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+ 
+ #EXTINF:-1 group-title="INDONESIA" tvg-id="TVKU.id" tvg-name="TVKU" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" tvg-url="" group-title="",TVKU 
+ http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="INDONESIA",BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -224,7 +233,7 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTV.id" tvg-name="TRANS TV HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://img.favpng.com/6/4/20/trans7-indonesia-trans-tv-streaming-media-television-png-favpng-9xxGhtW1PX9Vn3EaJLFUvKFFD.jpg" group-title="INDONESIA",TRANS 7
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_734_480p/index.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INSPIRATV.id" tvg-name="Inspira TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Inspira_Logo_%282021%29.png" group-title="INDONESIA",Inspira TV
 https://v2.siar.us/inspiratv/live/chunks.m3u8
@@ -272,12 +281,14 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_206_720p/index.m
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8
 
-
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://choos.wap.sh/images/ntv.png" , NTV
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7432_720p/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://choos.wap.sh/images/inews.png" , I-News 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-digdaya-tv-8293.jpg", Digdaya TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8 
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://4.bp.blogspot.com/-Rl6bWHI7G48/Xgagyz382iI/AAAAAAAApFU/kEQx7Eb-XHQo9h8wl-EqcPzp5V-_AmU1QCLcBGAsYHQ/s0/atv-channel-tv-logo.png", ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
