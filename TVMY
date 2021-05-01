@@ -83,16 +83,16 @@ http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 http://goodtv.xyz:2052/mthomas/mthomas/2599207
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="MALAYSIA",Astro SuperSport
-http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="MALAYSIA",Astro SuperSport 2
-http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-country="MY" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png" group-title="MALAYSIA",Astro SuperSport 3
-http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png" group-title="MALAYSIA",Astro SuperSport 4
-http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Astro_Cricket_HD/Other?file=Astro_Cricket.png" group-title="MALAYSIA",Astro Crickets
 http://gooserace.xyz:2052/s4D8RKT5/vIFD6X2VYB/2599217
