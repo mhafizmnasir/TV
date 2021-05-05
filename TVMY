@@ -318,12 +318,11 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 group-title="THAILAND" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062437.png",CH7
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8
 
-#EXTINF:-1 group-title="THAILAND" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062657.png",NBT
-http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1249643471.m3u8
-htttps://iptvcat.com/my_list/s/677efe249764bae3926df5ee5750a015.m3u8
+#EXTINF:-1 group-title="THAILAND" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/nbt-png-2.png",NBT
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 
 #EXTINF:-1 group-title="THAILAND" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062733.png",MCOT HD
-https://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
 
 #EXTINF:-1 group-title="THAILAND" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062819.png",THAI PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
@@ -344,7 +343,7 @@ https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="THAILAND" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031320.jpg",THAIRATH
-https://live.thairath.co.th/trtv2/thairath_tv_output_group_720p.m3u8
+http://live.thairath.co.th/trtv2/playlist.m3u8
 
 #EXTINF:-1 group-title="THAILAND" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031059.jpg",PPTV HD
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
@@ -359,7 +358,7 @@ http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
 http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="THAILAND" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031205.png",GMM25
-http://183.182.100.184/live/mcothd/playlist.m3u8
+http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="THAILAND" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031219.png",New18
 https://edge6a.v2h-cdn.com/m2i1/NEW.stream_720p/playlist.m3u8
